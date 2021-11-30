@@ -736,6 +736,7 @@
 
 #contact div.contact-content iframe {
   border-radius: 30px;
+  max-width: 100%;
 }
 
 #footer {
