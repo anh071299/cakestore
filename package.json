@@ -10,8 +10,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^5.1.1",
     "json-server": "^0.16.3"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anh071299/cakestore.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anh071299/cakestore/issues"
+  },
+  "homepage": "https://github.com/anh071299/cakestore#readme",
   "description": ""
 }
